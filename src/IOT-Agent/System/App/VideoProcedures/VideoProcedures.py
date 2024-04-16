@@ -41,14 +41,12 @@ class VideoProcedures(Borg):
         """
         #Setting initial time mark for reader procedure
         timemark = time.perf_counter()
-        #Reader starting log
-        self.ctx['__obj']['__log'].setLog( 'Comenzando la captura de las cámaras IP' )
 	    #Parsing rtsp urls
         rtsp = self.ctx['__obj']['__config'].get('rtsp')
+        #Reader starting log
+        self.ctx['__obj']['__log'].setLog( 'Comenzando la captura de streaming de prueba: {}'.format(rtsp['main']) )
 	    #Capturing frames of the cameras
-        self.frames = {k: cv2.VideoCapture(rtsp[k]).read()[1] for k in rtsp.keys() if cv2.VideoCapture(rtsp[k]).read()[0]} 
-        plt.imshow(self.frames['main'])
-        plt.show()
+        #self.frames = {k: cv2.VideoCapture(rtsp[k]).read()[1] for k in rtsp.keys() if cv2.VideoCapture(rtsp[k]).read()[0]} 
         #Reader resume log
         self.ctx['__obj']['__log'].setLog(
             'Lectura finalizada con tiempo de [' + str( time.perf_counter() - timemark ) + '] seg.'

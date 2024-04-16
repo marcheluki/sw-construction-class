@@ -1,0 +1,8 @@
+---------------------------------
+[2024-04-16 04:16:50][INFO][200]:La conexion [dbconn_standard] esta desabilitada en el archivo .config
+---------------------------------
+[2024-04-16 04:16:50][INFO][200]:Iniciando ...
+---------------------------------
+[2024-04-16 04:16:50][INFO][200]:Comenzando la captura de streaming de prueba: rtsp://b03773d78e34.entrypoint.cloud.wowza.com:1935/app-4065XT4Z/80c76e59_stream1
+---------------------------------
+[2024-04-16 04:16:50][INFO][200]:Lectura finalizada con tiempo de [0.0001682910000000426] seg.
