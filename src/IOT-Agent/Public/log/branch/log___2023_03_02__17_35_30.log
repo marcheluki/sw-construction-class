@@ -1,0 +1,8 @@
+---------------------------------
+[2023-03-02 17:35:30][INFO][200]:La conexion [dbconn_standard] esta desabilitada en el archivo .config
+---------------------------------
+[2023-03-02 17:35:30][INFO][200]:Inicio del conteo de tablas
+---------------------------------
+[2023-03-02 17:35:30][INFO][200]:Comenzando la lectura HDP con filtros: [{'filter': 'date-rank', 'values': [None, None]}]
+---------------------------------
+[2023-03-02 17:35:30][INFO][200]:Lectura finalizada con tiempo de [0.00048485899969819] seg.

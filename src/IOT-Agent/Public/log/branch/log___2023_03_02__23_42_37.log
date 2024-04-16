@@ -1,0 +1,8 @@
+---------------------------------
+[2023-03-02 23:42:37][INFO][200]:La conexion [dbconn_standard] esta desabilitada en el archivo .config
+---------------------------------
+[2023-03-02 23:42:37][INFO][200]:Inicio del conteo de tablas
+---------------------------------
+[2023-03-02 23:42:37][INFO][200]:Comenzando la lectura de los parquets con filtros: [{'filter': 'date-rank', 'values': [None, None]}]
+---------------------------------
+[2023-03-02 23:42:37][INFO][200]:Lectura finalizada con tiempo de [0.00010295701213181019] seg.

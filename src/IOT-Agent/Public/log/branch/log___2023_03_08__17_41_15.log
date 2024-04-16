@@ -1,0 +1,24 @@
+---------------------------------
+[2023-03-08 17:41:15][INFO][200]:La conexion [dbconn_standard] esta desabilitada en el archivo .config
+---------------------------------
+[2023-03-08 17:41:15][INFO][200]:Iniciando ...
+---------------------------------
+[2023-03-08 17:41:15][EXCEPTION][500]:PYTHON-EXCEPTION:
+
+>>>>>>>>>>>>>>>[TRACEBACK]<<<<<<<<<<<<<<<
+
+  File "/Users/l03542515/Documents/crowd-counting/src/IOT-Agent/main.py", line 10, in <module>
+    ProjectDirector.go( sys.argv )
+  File "/Users/l03542515/Documents/crowd-counting/src/IOT-Agent/System/Director/ProjectDirector.py", line 94, in go
+    ProjectDirector().setFlux( argv )
+  File "/Users/l03542515/Documents/crowd-counting/src/IOT-Agent/System/Director/ProjectDirector.py", line 74, in setFlux
+    self.__play(
+  File "/Users/l03542515/Documents/crowd-counting/src/IOT-Agent/System/Director/ProjectDirector.py", line 38, in __play
+    Reader( self.ctx ).readRTSPStreaming()
+
+>>>>>>>>>>>>>>[ERROR_DESC]<<<<<<<<<<<<<<<
+
+  [NameError]:name 'Reader' is not defined
+
+>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<
+

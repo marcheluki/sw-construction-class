@@ -1,0 +1,240 @@
+[DEBUG-16777920514364432]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 15, 20, 51, 425814),
+                    '__global_run_id': '16777920514236578',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.GTIMConfig.GTIMConfig object at 0x7f5be8a10f70>,
+                 '__db': {   '__connector': <System.Database.GTIMDbConnector.GTIMDbConnector object at 0x7f5be8a100a0>,
+                             '__manager': <System.Database.GTIMDbManager.GTIMDbManager object at 0x7f5bcdfc81c0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.GTIMMySql.GTIMMySql object at 0x7f5bcdfc8dc0>}},
+                 '__global_procedures': <System.Global.GTIMGlobalProcedures.GTIMGlobalProcedures object at 0x7f5be8b68fa0>,
+                 '__log': <System.Global.GTIMLog.GTIMLog object at 0x7f5bcdfc81f0>,
+                 '__mailer': <System.Mailer.GTIMMailer.GTIMMailer object at 0x7f5bcdfc8d60>}}
+
+---------------
+[DEBUG-16777926110650952]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 15, 30, 11, 54190),
+                    '__global_run_id': '16777926110522972',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7faee01663d0>,
+                 '__db': {   '__connector': <System.Database.GTIMDbConnector.GTIMDbConnector object at 0x7faec55c7df0>,
+                             '__manager': <System.Database.GTIMDbManager.GTIMDbManager object at 0x7faec55c7e20>,
+                             '__mysql': {   '__driver': <System.Database.Driver.GTIMMySql.GTIMMySql object at 0x7faec55c7d90>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7faee0166520>,
+                 '__log': <System.Global.Log.Log object at 0x7faec55c7220>,
+                 '__mailer': <System.Mailer.GTIMMailer.GTIMMailer object at 0x7faec55c7d00>}}
+
+---------------
+[DEBUG-16777930637630282]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 15, 37, 43, 752338),
+                    '__global_run_id': '16777930637503068',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7f775c1c1490>,
+                 '__db': {   '__connector': <System.Database.GTIMDbConnector.GTIMDbConnector object at 0x7f77418fd850>,
+                             '__manager': <System.Database.GTIMDbManager.GTIMDbManager object at 0x7f77418fd820>,
+                             '__mysql': {   '__driver': <System.Database.Driver.GTIMMySql.GTIMMySql object at 0x7f77418fd8b0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7f775c1c2250>,
+                 '__log': <System.Global.Log.Log object at 0x7f77418fd4f0>,
+                 '__mailer': <System.Mailer.GTIMMailer.GTIMMailer object at 0x7f77418fd940>}}
+
+---------------
+[DEBUG-16777984050217190]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 17, 6, 45, 10916),
+                    '__global_run_id': '16777984050096060',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fe10a2a6490>,
+                 '__db': {   '__connector': <System.Database.GTIMDbConnector.GTIMDbConnector object at 0x7fe0ef9bc7c0>,
+                             '__manager': <System.Database.GTIMDbManager.GTIMDbManager object at 0x7fe0ef9bc790>,
+                             '__mysql': {   '__driver': <System.Database.Driver.GTIMMySql.GTIMMySql object at 0x7fe0ef9bc820>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fe10a2a7250>,
+                 '__log': <System.Global.Log.Log object at 0x7fe0ef9bc460>,
+                 '__mailer': <System.Mailer.GTIMMailer.GTIMMailer object at 0x7fe0ef9bc8b0>}}
+
+---------------
+[DEBUG-16777998836090888]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 17, 31, 23, 598133),
+                    '__global_run_id': '16777998835964822',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7f6f5ef013d0>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7f6f5ef7ee80>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7f6f44672880>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7f6f446724f0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7f6f5ef01520>,
+                 '__log': <System.Global.Log.Log object at 0x7f6f44672520>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7f6f446728b0>}}
+
+---------------
+[DEBUG-16778001302528912]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 17, 35, 30, 242207),
+                    '__global_run_id': '16778001302405615',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7f874efcfeb0>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7f87345cac40>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7f874efcf7f0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7f874efcfee0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7f874f126520>,
+                 '__log': <System.Global.Log.Log object at 0x7f87345ca1c0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7f87345cabb0>}}
+
+---------------
+[DEBUG-16778005579767288]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 2, 23, 42, 37, 966530),
+                    '__global_run_id': '16778005579661732',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0xffffbdf5fc70>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0xffff0e1c9a90>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0xffff0e1c9ac0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0xffff0e1c9a30>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0xffffbdfbd2e0>,
+                 '__log': <System.Global.Log.Log object at 0xffff0e1c9df0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0xffff0e1c99a0>}}
+
+---------------
+[DEBUG-16778782560607528]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 3, 15, 17, 36, 50101),
+                    '__global_run_id': '16778782560482955',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7f5c1bf2bf70>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7f5c01706c40>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7f5c01706130>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7f5c1bf2b100>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7f5c1c082250>,
+                 '__log': <System.Global.Log.Log object at 0x7f5c017061f0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7f5c01706be0>}}
+
+---------------
+[DEBUG-16783188756292510]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 8, 17, 41, 15, 618440),
+                    '__global_run_id': '16783188756177500',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fb5c0327ac0>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7fb5b13165e0>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7fb5b13166d0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7fb5b13165b0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fb5c03278e0>,
+                 '__log': <System.Global.Log.Log object at 0x7fb5b1254ee0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7fb5b1316520>}}
+
+---------------
+[DEBUG-16783189173913688]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 8, 17, 41, 57, 380577),
+                    '__global_run_id': '16783189173798910',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fcd48268eb0>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7fcd589155e0>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7fcd589156d0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7fcd589155b0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fcd482478e0>,
+                 '__log': <System.Global.Log.Log object at 0x7fcd58840550>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7fcd58915520>}}
+
+---------------
+[DEBUG-16783189731577710]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 8, 17, 42, 53, 147015),
+                    '__global_run_id': '16783189731463070',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7f9a782c8eb0>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7f9a79de55e0>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7f9a79de56d0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7f9a79de55b0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7f9a782a78e0>,
+                 '__log': <System.Global.Log.Log object at 0x7f9a79d0d550>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7f9a79de5520>}}
+
+---------------
+[DEBUG-16783189827473002]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 8, 17, 43, 2, 736525),
+                    '__global_run_id': '16783189827358590',
+                    '__project': {   '__label': 'TA/Cajero',
+                                     '__name': 'ta_cajero'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fb9c019fac0>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7fb9c1eb65e0>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7fb9c1eb66d0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7fb9c1eb65b0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fb9c019f8e0>,
+                 '__log': <System.Global.Log.Log object at 0x7fb9c1df4ee0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7fb9c1eb6520>}}
+
+---------------
+[DEBUG-16787924632398150]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 14, 5, 14, 23, 226971),
+                    '__global_run_id': '16787924632262678',
+                    '__project': {   '__label': 'iot-agent',
+                                     '__name': 'iot-agent'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fec302a7940>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7fec31d4d790>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7fec31d4d730>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7fec31d4d6d0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fec2001e820>,
+                 '__log': <System.Global.Log.Log object at 0x7fec302c80a0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7fec31d4d640>}}
+
+---------------
+[DEBUG-16787925908266980]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 14, 5, 16, 30, 813990),
+                    '__global_run_id': '16787925908133362',
+                    '__project': {   '__label': 'iot-agent',
+                                     '__name': 'iot-agent'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7ff39027f940>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7ff38078f160>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7ff38078f1f0>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7ff38078f1c0>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7ff390136820>,
+                 '__log': <System.Global.Log.Log object at 0x7ff3925f35e0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7ff38078f250>}}
+
+---------------
+[DEBUG-16787926112348180]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 14, 5, 16, 51, 222068),
+                    '__global_run_id': '16787926112212968',
+                    '__project': {   '__label': 'iot-agent',
+                                     '__name': 'iot-agent'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fe070327940>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7fe060720a60>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7fe060720940>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7fe060720d30>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fe070136820>,
+                 '__log': <System.Global.Log.Log object at 0x7fe0725b45e0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7fe060720d90>}}
+
+---------------
+[DEBUG-16787927331554240]
+
+{   '__config': {   '__datetime': datetime.datetime(2023, 3, 14, 5, 18, 53, 144587),
+                    '__global_run_id': '16787927331429360',
+                    '__project': {   '__label': 'iot-agent',
+                                     '__name': 'iot-agent'}},
+    '__obj': {   '__config': <System.Global.Config.Config object at 0x7fa338327940>,
+                 '__db': {   '__connector': <System.Database.DbConnector.DbConnector object at 0x7fa33ad38a60>,
+                             '__manager': <System.Database.DbManager.DbManager object at 0x7fa33ad38940>,
+                             '__mysql': {   '__driver': <System.Database.Driver.MySql.MySql object at 0x7fa33ad38d30>}},
+                 '__global_procedures': <System.Global.GlobalProcedures.GlobalProcedures object at 0x7fa338126820>,
+                 '__log': <System.Global.Log.Log object at 0x7fa33a7835e0>,
+                 '__mailer': <System.Mailer.Mailer.Mailer object at 0x7fa33ad38d90>}}
+
+---------------
