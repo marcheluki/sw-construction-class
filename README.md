@@ -1,2 +1,21 @@
-# sw-construction-class
-Este es un repositorio con un esqueleto genérico. En este esqueleto encontrarán un ejemplo de una arquitectura de software en Python con buenas prácticas de calidad y un patrón de diseño tipo Borg con contexto compartido. 
+ # Software analysis and design
+
+## Teacher
+@agrptec
+
+
+## Content
+
+| No.        | Class          |Code and notebooks |  Complementary material|
+| :-------------: |:-------------| :-----:| :-----|
+| 1.              | Introduction to structured databases|  <ul> <li>[Code](perceptron/perceptron.py) </li> </ul> | 
+
+
+
+
+
+## References
+
+Huge shoutout goes to @DataSystemsGroupUT.
+
+ - [visum_to_pandas](https://github.com/DataSystemsGroupUT/dataeng.git)
