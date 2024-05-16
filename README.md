@@ -16,7 +16,7 @@
 | 6.              | Automatic differentiation in Multilayer Perceptron and GPU acceleration|  <ul> <li>[Notebook](notebooks/acceleration_DNN_pynb.ipynb) </li> </ul> | 
 | 7.              | Recurrent Neural Networks|  <ul> <li>[Notebook](notebooks/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb) </li> </ul> | 
 | 8.              | Deploying a generative model with Ollama| |  <ul> <li>[Repository](https://github.com/ollama/ollama.git) </li> </ul> | 
-| 9.              | Introduction to structured data bases|  <ul> <li>[Notebook](notebooks/postgres.ipynb) </li> </ul> |  <ul> <li>[README](postgres.md) </li> <li>[Repository](https://github.com/Wathon/Data-Modeling-with-Postgres.git) </li> </ul> | 
+| 9.              | Introduction to structured data bases|  <ul> <li>[Notebook](notebooks/postgres.ipynb) </li> </ul> |  <ul> <li>[README](postgres.md) </li> <li>[Repository](https://github.com/Wathon/Data-Modeling-with-Postgres.git) </li> </ul> <li>[Book](http://160592857366.free.fr/joe/ebooks/ShareData/The%20Data%20Warehouse%20Toolkit.pdf) </li>| 
 
 
 
